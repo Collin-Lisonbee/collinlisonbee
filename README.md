@@ -6,8 +6,7 @@ Aspiring **IT professional** transitioning from B2B SaaS to hands-on **IT suppor
 
 - 📍 Salt Lake City, UT  
 - ✉️ collinlisonbee@gmail.com • [[LinkedIn](www.linkedin.com/in/collin-lisonbee-443003227)]
-- 🧰 Currently building: **Windows Server 2022 Home Lab** (VMware, AD, DNS, GPO, domain join)
-
+  
 ## 🔧 Skills & Tools
 **Platforms:** Windows Server, Windows 11, Azure (fundamentals), Linux (basic)  
 **Admin:** Active Directory, DNS, Group Policy, Microsoft 365, Google Workspace  
