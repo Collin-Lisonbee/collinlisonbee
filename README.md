@@ -5,7 +5,7 @@
 Aspiring **IT professional** transitioning from B2B SaaS to hands-on **IT support / junior sysadmin** work. I build home labs to practice **Windows Server, AD DS, DNS, GPO, and automation**.
 
 - 📍 Salt Lake City, UT  
-- ✉️ collinlisonbee@gmail.com • [[LinkedIn](www.linkedin.com/in/collin-lisonbee-443003227)]
+- ✉️ collinlisonbee@gmail.com • [LinkedIn(www.linkedin.com/in/collin-lisonbee-443003227)]
   
 ## 🔧 Skills & Tools
 **Platforms:** Windows Server, Windows 11, Azure (fundamentals), Linux (basic)  
